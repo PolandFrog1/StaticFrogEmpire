@@ -36,6 +36,10 @@ a{
     border-color: rgb(22, 0, 0);
     float: left
 }
+.pages{
+    color:rgb(255, 200, 100);
+    font-family: sans-serif, arial;
+}
 
 #p1{
     margin-left: auto;
