@@ -34,21 +34,15 @@ a{
     border-style: dashed;
     border-width: 3px;
     border-color: rgb(22, 0, 0);
+    float: left
 }
 
-#img1{
-    float: left;
-}
 #p1{
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
     width: 50%;
-}
 
-#img2{
-    float: left;
-}
 .title4{
     color:rgb(118, 90, 83);
     font-family: sans-serif, arial;
