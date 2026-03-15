@@ -5,6 +5,18 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
+.body2{
+    background-image: url("fandomy.png");
+    background-position: center;
+    background-attachment: fixed;
+    backgroundsize: cover;
+}
+
+#arts{
+    margin-left: auto;
+    margin-right: auto;
+}
 .title{
     color:rgb(224, 224, 224);
     font-family: sans-serif, arial;
