@@ -51,6 +51,10 @@ a{
 .pages{
     color:rgb(105, 30, 41);
     font-family: sans-serif, arial;
+    border-radius: 10%;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(22, 0, 0);
 }
 
 #p1{
